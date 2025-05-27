@@ -27,13 +27,13 @@
   </a>
 </div>
 <a href="https://comforting-sundae-988e30.netlify.app/#/Clienc" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #87CEFA; padding: 10px 20px; border-radius: 8px; text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Stethoscope_icon.svg/1024px-Stethoscope_icon.svg.png" 
-       alt="Medical Stethoscope" 
-       style="height: 40px; vertical-align: middle; margin-right: 10px;">
-  <span style="color: white; font-weight: bold; font-size: 18px; vertical-align: middle;">Visit My Site</span>
-</a>
+<a href="[https://www.buymeacoffee.com/omarrhussev](https://comforting-sundae-988e30.netlify.app/#/Clienc)" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" 
+       alt="طبيبك أونلاين" 
+       style="height: 60px !important; width: 217px !important; max-width: 100%; height: auto;"></a>
        <br>
        <br>
+       
 
 
 ---
