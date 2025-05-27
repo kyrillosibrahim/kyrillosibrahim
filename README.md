@@ -54,7 +54,7 @@
 ## 🎓 Education
 
 **Faculty of Computers and Information**  
-Faculty of Computers and Information Zagazig University  — GPA: 3.45
+ Zagazig University  — GPA: 3.45
 
 ---
 
