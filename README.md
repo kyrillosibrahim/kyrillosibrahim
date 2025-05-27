@@ -26,7 +26,7 @@
     </svg>
   </a>
 </div>
-<a href="https://www.buymeacoffee.com/omarrhussev" target="_blank" rel="noopener noreferrer">
+<a href="[https://www.buymeacoffee.com/omarrhussev](https://comforting-sundae-988e30.netlify.app/#/Clienc)" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
        alt="Buy Me A Coffee" 
        style="height: 60px !important; width: 217px !important; max-width: 100%; height: auto;"></a>
