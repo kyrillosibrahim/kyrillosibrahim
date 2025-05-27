@@ -61,6 +61,5 @@ Faculty of Computers and Information Zagazig University  — GPA: 3.45
 ## 📫 Let's Connect
 
 - **Email:** [kyrilosibrahim012753@gmail.com](mailto:nawarahmed652@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/ahmed-nawar-246513243](https://www.linkedin.com/in/ahmed-nawar-246513243)  
 - **GitHub:** [github.com/kyrillosibrahim](https://github.com/AhmedNawar2003)
 
